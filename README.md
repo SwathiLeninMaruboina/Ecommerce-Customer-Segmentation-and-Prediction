@@ -180,6 +180,3 @@ Built models to **predict customer segments**:
 - Power BI / Tableau dashboards
 
 ---
-
-
-## 📁 Repository Structure
