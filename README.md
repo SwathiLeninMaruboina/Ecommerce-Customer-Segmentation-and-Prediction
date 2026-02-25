@@ -148,8 +148,11 @@ Built models to **predict customer segments**:
 - Jupyter Notebook
 
 ---
+
 ## 📁 Repository Structure
+
 ---
+
 ├── data/
 │ └── ecommerce_customer_segmentation_dataset.csv
 ├── notebooks/
